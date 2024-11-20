@@ -39,13 +39,13 @@
                 <div class="container px-5">
                     <h1 class="masthead-heading mb-0">Breezetrek</h1>
                     <h2 class="masthead-subheading mb-0">The haven of Internet, business and everything in between!</h2>
-                    <a class="btn btn-primary btn-xl rounded-pill mt-5" href="#scroll">Learn More</a>
+                   <!-- <a class="btn btn-primary btn-xl rounded-pill mt-5" href="#scroll">Learn More</a> -->
 
                     <!-- Start of Newsletter sign-up -->
                     <div id="mc_embed_shell">
       <link href="//cdn-images.mailchimp.com/embedcode/classic-061523.css" rel="stylesheet" type="text/css">
   <style type="text/css">
-        #mc_embed_signup{background:#fff; false;clear:left; font:14px Helvetica,Arial,sans-serif; width: 600px;}
+        #mc_embed_signup{background:#fff; false;clear:left; font:14px Helvetica,Arial,sans-serif; width: 400px;}
         /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
            We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
@@ -122,7 +122,7 @@
         </section>
         <!-- Footer-->
         <footer class="py-5 bg-black">
-            <div class="container px-5"><p class="m-0 text-center text-white small">Copyright &copy; Breezetrek <script>document.write(new Date().getFullYear())</script></p></div>
+            <div class="container px-5"><p class="m-0 text-center text-white small">Copyright &copy; Breezetrek <script>document.write(new Date().getFullYear())</script> </p></div>
         </footer>
         <!-- Bootstrap core JS-->
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
